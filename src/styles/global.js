@@ -8,7 +8,7 @@ const Global = createGlobalStyle`
   }
 
   body {
-    font-family: 'Oswald', Sans-Serif;
+    font-family: 'Poppins', Sans-Serif;
     background-color: #f2f2f2;
   }
 `;
